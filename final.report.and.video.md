@@ -8,6 +8,7 @@ complement the poster session as described below:
 You should update the <code>README.md</code> and ALL the files that it references (such as <code>requirements.md</code>, and so forth), by fixing 
 any typos errors or with corrections as to what your final project is about. This is the **FINAL** version that you will ultimately be graded on.
 
+
 - Project name
 - Project Concept (linked to <code>concept.md</code>)
 - Vision<br>
